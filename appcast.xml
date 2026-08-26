@@ -6,6 +6,18 @@
     <description>Updates for Lukotta.</description>
     <language>en</language>
     <item>
+      <title>Version 1.20.2</title>
+      <pubDate>Wed, 26 Aug 2026 16:16:03 +0000</pubDate>
+      <sparkle:version>615</sparkle:version>
+      <sparkle:shortVersionString>1.20.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://updates.lukotta.com/notes/1.20.2.html</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/clementrahula/lukotta/releases/download/v1.20.2/Lukotta-1.20.2.zip" length="85982683" type="application/octet-stream" sparkle:edSignature="TnMTN4Vbs8k8j7O4VA/wJ2LIRRD1DTjUv/xeU/eh+PQfTBMEgPLmHzP+fxlTL4jX1IS26wHXVu19/TnvtferCQ==" />
+      <sparkle:deltas>
+        <enclosure url="https://github.com/clementrahula/lukotta/releases/download/v1.20.2/Lukotta-613-615.delta" length="215526" type="application/octet-stream" sparkle:deltaFrom="613" sparkle:edSignature="V7fe7NScC/aONb2MkW1dAApD5zLbZMRlYOZtQfsJ9Ysslkcd7VMLo9Trly+6AZ3ybuht93CPKaM/CNFmAUH6DQ==" />
+      </sparkle:deltas>
+    </item>
+    <item>
       <title>Version 1.20.1</title>
       <pubDate>Wed, 26 Aug 2026 14:43:27 +0000</pubDate>
       <sparkle:version>613</sparkle:version>
