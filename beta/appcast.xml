@@ -6,16 +6,13 @@
     <description>Updates for Lukotta Beta.</description>
     <language>en</language>
     <item>
-      <title>Version 1.19.3</title>
-      <pubDate>Wed, 26 Aug 2026 13:40:36 +0000</pubDate>
-      <sparkle:version>607</sparkle:version>
-      <sparkle:shortVersionString>1.19.3</sparkle:shortVersionString>
+      <title>Version 1.21.0-beta.1</title>
+      <pubDate>Wed, 26 Aug 2026 18:14:29 +0000</pubDate>
+      <sparkle:version>625</sparkle:version>
+      <sparkle:shortVersionString>1.21.0-beta.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <sparkle:releaseNotesLink>https://updates.lukotta.com/beta/notes/1.19.3.html</sparkle:releaseNotesLink>
-      <enclosure url="https://github.com/clementrahula/lukotta/releases/download/v1.19.3-beta/Lukotta-Beta-1.19.3.zip" length="85977284" type="application/octet-stream" sparkle:edSignature="Z21c4m6CLot2ExAaHRN1zl7Xqpq2PljF7XyoeN/xJyklRKaNUu9LTrB4qAZf44hO85kCD1v+BnMqN2NCBkgiDg==" />
-      <sparkle:deltas>
-        <enclosure url="https://github.com/clementrahula/lukotta/releases/download/v1.19.3-beta/Lukotta-Beta-603-607.delta" length="183646" type="application/octet-stream" sparkle:deltaFrom="603" sparkle:edSignature="TCXQedFh3ijCt6tk9DIRsmVlhPM7uYUI338lhyuB8ymKvhw1x9iSm66TpbSTksgiC/zMw8cODzI2X2rFGp8XBA==" />
-      </sparkle:deltas>
+      <sparkle:releaseNotesLink>https://updates.lukotta.com/beta/notes/1.21.0-beta.1.html</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/clementrahula/lukotta/releases/download/v1.21.0-beta.1/Lukotta-Beta-1.21.0.zip" length="85993682" type="application/octet-stream" sparkle:edSignature="g5E2qZeuDPcd8e5a96/kjSh0eSbwUHyyTBxMqo5j2Emm4T57i74ye20dXBlZkE8XPD5OjKjUW+Ta6cd/CXpCDA==" />
     </item>
   </channel>
 </rss>
