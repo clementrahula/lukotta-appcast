@@ -1,11 +1,22 @@
 # Lukotta update feed
 
-The appcast [Lukotta](https://github.com/clementrahula/lukotta) checks for
-updates, served at <https://lukotta-updates.rahula.dev/appcast.xml>.
+Two appcasts, served over GitHub Pages at `updates.lukotta.com`:
 
-It holds the feed and the release notes each entry links to, and nothing else.
-The archives themselves are attached to the releases in the app's own
-repository. A separate repository because one GitHub Pages site serves one
-custom domain, and that one belongs to the project's website.
+| Feed | Address |
+| --- | --- |
+| Release | <https://updates.lukotta.com/appcast.xml> |
+| Beta | <https://updates.lukotta.com/beta/appcast.xml> |
 
-Written by `scripts/release.sh` in the app's repository; committed here.
+[Lukotta](https://github.com/clementrahula/lukotta) checks the release feed.
+The beta build has its own bundle identifier and checks the beta feed, so the
+two can sit on one Mac without either offering the other's updates.
+
+Each feed has a `notes` directory beside it holding the release notes its
+entries link to. The archives are not here: they are attached to the releases
+in the app's repository.
+
+`scripts/release.sh` in the app's repository writes the feed entry and the
+notes into a checkout of this repository, which is then committed.
+
+Separate from the app's repository because a GitHub Pages site carries one
+custom domain, and the project's own site already uses it.
