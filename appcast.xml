@@ -17,50 +17,5 @@
         <enclosure url="https://github.com/clementrahula/lukotta/releases/download/v1.20.4/Lukotta-617-619.delta" length="135486" type="application/octet-stream" sparkle:deltaFrom="617" sparkle:edSignature="O9SPepS6aoaAY5g4g7KLMrqNuK/S3KjjZCmKwKXGOBDzlXn2QgFAJNKacedG710E+ORa650GoYMrtvhXcSsHAw==" />
       </sparkle:deltas>
     </item>
-    <item>
-      <title>Version 1.20.3</title>
-      <pubDate>Wed, 26 Aug 2026 16:46:51 +0000</pubDate>
-      <sparkle:version>617</sparkle:version>
-      <sparkle:shortVersionString>1.20.3</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <sparkle:releaseNotesLink>https://updates.lukotta.com/notes/1.20.3.html</sparkle:releaseNotesLink>
-      <enclosure url="https://github.com/clementrahula/lukotta/releases/download/v1.20.3/Lukotta-1.20.3.zip" length="85983684" type="application/octet-stream" sparkle:edSignature="ScMFW0TV3DNsz7ijc9H3NOeOycV4bquOyrAMGbHHOlboQkmB2KqJpdYrQpiT9LWggzCyLof7+n/V0CNHDNrhBg==" />
-      <sparkle:deltas>
-        <enclosure url="https://github.com/clementrahula/lukotta/releases/download/v1.20.3/Lukotta-615-617.delta" length="128206" type="application/octet-stream" sparkle:deltaFrom="615" sparkle:edSignature="etGx66L6qWA+311uAGelcPyYJmtorINOezcD+8jSy1mtkjEl6q56l9i9ofD3UuChz3ejBkFOfCw419FJXeR+DA==" />
-      </sparkle:deltas>
-    </item>
-    <item>
-      <title>Version 1.20.2</title>
-      <pubDate>Wed, 26 Aug 2026 16:16:03 +0000</pubDate>
-      <sparkle:version>615</sparkle:version>
-      <sparkle:shortVersionString>1.20.2</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <sparkle:releaseNotesLink>https://updates.lukotta.com/notes/1.20.2.html</sparkle:releaseNotesLink>
-      <enclosure url="https://github.com/clementrahula/lukotta/releases/download/v1.20.2/Lukotta-1.20.2.zip" length="85982683" type="application/octet-stream" sparkle:edSignature="TnMTN4Vbs8k8j7O4VA/wJ2LIRRD1DTjUv/xeU/eh+PQfTBMEgPLmHzP+fxlTL4jX1IS26wHXVu19/TnvtferCQ==" />
-      <sparkle:deltas>
-        <enclosure url="https://github.com/clementrahula/lukotta/releases/download/v1.20.2/Lukotta-613-615.delta" length="215526" type="application/octet-stream" sparkle:deltaFrom="613" sparkle:edSignature="V7fe7NScC/aONb2MkW1dAApD5zLbZMRlYOZtQfsJ9Ysslkcd7VMLo9Trly+6AZ3ybuht93CPKaM/CNFmAUH6DQ==" />
-      </sparkle:deltas>
-    </item>
-    <item>
-      <title>Version 1.20.1</title>
-      <pubDate>Wed, 26 Aug 2026 14:43:27 +0000</pubDate>
-      <sparkle:version>613</sparkle:version>
-      <sparkle:shortVersionString>1.20.1</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <sparkle:releaseNotesLink>https://updates.lukotta.com/notes/1.20.1.html</sparkle:releaseNotesLink>
-      <enclosure url="https://github.com/clementrahula/lukotta/releases/download/v1.20.1/Lukotta-1.20.1.zip" length="85971462" type="application/octet-stream" sparkle:edSignature="tvGOx2y+SPyFAR/Zrx8f+DwwrwLPVDByLSr1pQfRBAia++YgMDLj7SL+RqGzmi8QFsZJGyBUeJqL9McWrWEOCg==" />
-      <sparkle:deltas>
-        <enclosure url="https://github.com/clementrahula/lukotta/releases/download/v1.20.1/Lukotta-611-613.delta" length="197150" type="application/octet-stream" sparkle:deltaFrom="611" sparkle:edSignature="oZHV3xCUg0AwSeCSRWGbsnAvhLvYixcrhyit1ncAQH5XvgRbC3f9lPYBz6axy7pwyZWT4WQXv/KpOIpObmgjDw==" />
-      </sparkle:deltas>
-    </item>
-    <item>
-      <title>Version 1.20.0</title>
-      <pubDate>Wed, 26 Aug 2026 14:11:01 +0000</pubDate>
-      <sparkle:version>611</sparkle:version>
-      <sparkle:shortVersionString>1.20.0</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <sparkle:releaseNotesLink>https://updates.lukotta.com/notes/1.20.0.html</sparkle:releaseNotesLink>
-      <enclosure url="https://github.com/clementrahula/lukotta/releases/download/v1.20.0/Lukotta-1.20.0.zip" length="85965260" type="application/octet-stream" sparkle:edSignature="T+U3lTuIrub2X0K1TT4OH2anwcKiNq10+XAYlZAyquDlIUB+aKXQPfRjHCXDmVLcnDZSpxWI34SlGwY3JRTpDQ==" />
-    </item>
   </channel>
 </rss>

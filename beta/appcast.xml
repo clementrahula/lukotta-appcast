@@ -17,14 +17,5 @@
         <enclosure url="https://github.com/clementrahula/lukotta/releases/download/v1.19.3-beta/Lukotta-Beta-603-607.delta" length="183646" type="application/octet-stream" sparkle:deltaFrom="603" sparkle:edSignature="TCXQedFh3ijCt6tk9DIRsmVlhPM7uYUI338lhyuB8ymKvhw1x9iSm66TpbSTksgiC/zMw8cODzI2X2rFGp8XBA==" />
       </sparkle:deltas>
     </item>
-    <item>
-      <title>Version 1.19.2</title>
-      <pubDate>Wed, 26 Aug 2026 12:40:15 +0000</pubDate>
-      <sparkle:version>603</sparkle:version>
-      <sparkle:shortVersionString>1.19.2</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <sparkle:releaseNotesLink>https://updates.lukotta.com/beta/notes/1.19.2.html</sparkle:releaseNotesLink>
-      <enclosure url="https://github.com/clementrahula/lukotta/releases/download/v1.19.2-beta/Lukotta-Beta-1.19.2.zip" length="85980615" type="application/octet-stream" sparkle:edSignature="1IGLr8cO9tjbsoS8XhSsMxDo0aXeHv1KhXEVsl7jSqcvXTz6KhJjlkn1abhlvS2rtVffjSgEPqk4kcco4bT2Cw==" />
-    </item>
   </channel>
 </rss>
