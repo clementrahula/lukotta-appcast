@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Lukotta</title>
+    <link>https://updates.lukotta.com/appcast.xml</link>
+    <description>Updates for Lukotta.</description>
+    <language>en</language>
+    <item>
+      <title>Version 1.20.0</title>
+      <pubDate>Wed, 26 Aug 2026 14:11:01 +0000</pubDate>
+      <sparkle:version>611</sparkle:version>
+      <sparkle:shortVersionString>1.20.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://updates.lukotta.com/notes/1.20.0.html</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/clementrahula/lukotta/releases/download/v1.20.0/Lukotta-1.20.0.zip" length="85965260" type="application/octet-stream" sparkle:edSignature="T+U3lTuIrub2X0K1TT4OH2anwcKiNq10+XAYlZAyquDlIUB+aKXQPfRjHCXDmVLcnDZSpxWI34SlGwY3JRTpDQ==" />
+    </item>
+  </channel>
+</rss>
