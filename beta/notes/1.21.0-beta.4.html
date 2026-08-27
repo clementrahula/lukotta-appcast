@@ -1,0 +1,8 @@
+<html><body style="font: -apple-system-body; margin: 0">
+<h2>Version 1.21.0-beta.4</h2>
+<ul>
+  <li>A fix to how drives are mounted now actually reaches the part that mounts them. macOS keeps the background helper running across an update, and the helper is what builds the mount — so an updated application could go on behaving exactly like the version it replaced, with nothing on screen to say why. The helper is now compared against the one the application carries and replaced when it differs, which needs no password and takes a moment.</li>
+  <li>A drive is never opened through a helper that is not this version&#x27;s. If it cannot be replaced in time, the application does the mount itself rather than hand the drive to something out of date.</li>
+  <li>A helper that will not replace itself is set up again by the application, instead of showing a message and stopping.</li>
+</ul>
+</body></html>
