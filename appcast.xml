@@ -6,6 +6,51 @@
     <description>Updates for Lukotta.</description>
     <language>en</language>
     <item>
+      <title>Version 1.21.0</title>
+      <pubDate>Fri, 28 Aug 2026 10:35:37 +0000</pubDate>
+      <sparkle:version>685</sparkle:version>
+      <sparkle:shortVersionString>1.21.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://updates.lukotta.com/notes/1.21.0.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="ar">https://updates.lukotta.com/notes/1.21.0.ar.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="bg">https://updates.lukotta.com/notes/1.21.0.bg.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="cs">https://updates.lukotta.com/notes/1.21.0.cs.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="da">https://updates.lukotta.com/notes/1.21.0.da.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="de">https://updates.lukotta.com/notes/1.21.0.de.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="el">https://updates.lukotta.com/notes/1.21.0.el.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="es">https://updates.lukotta.com/notes/1.21.0.es.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="et">https://updates.lukotta.com/notes/1.21.0.et.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="fi">https://updates.lukotta.com/notes/1.21.0.fi.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="fil">https://updates.lukotta.com/notes/1.21.0.fil.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="fr">https://updates.lukotta.com/notes/1.21.0.fr.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="he">https://updates.lukotta.com/notes/1.21.0.he.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="hi">https://updates.lukotta.com/notes/1.21.0.hi.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="hr">https://updates.lukotta.com/notes/1.21.0.hr.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="hu">https://updates.lukotta.com/notes/1.21.0.hu.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="id">https://updates.lukotta.com/notes/1.21.0.id.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="it">https://updates.lukotta.com/notes/1.21.0.it.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="ja">https://updates.lukotta.com/notes/1.21.0.ja.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="ko">https://updates.lukotta.com/notes/1.21.0.ko.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="lt">https://updates.lukotta.com/notes/1.21.0.lt.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="lv">https://updates.lukotta.com/notes/1.21.0.lv.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="ms">https://updates.lukotta.com/notes/1.21.0.ms.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="nb">https://updates.lukotta.com/notes/1.21.0.nb.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="nl">https://updates.lukotta.com/notes/1.21.0.nl.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="pl">https://updates.lukotta.com/notes/1.21.0.pl.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="pt-PT">https://updates.lukotta.com/notes/1.21.0.pt-PT.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="ro">https://updates.lukotta.com/notes/1.21.0.ro.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="ru">https://updates.lukotta.com/notes/1.21.0.ru.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="sl">https://updates.lukotta.com/notes/1.21.0.sl.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="sq">https://updates.lukotta.com/notes/1.21.0.sq.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="sv">https://updates.lukotta.com/notes/1.21.0.sv.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="th">https://updates.lukotta.com/notes/1.21.0.th.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="tr">https://updates.lukotta.com/notes/1.21.0.tr.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="uk">https://updates.lukotta.com/notes/1.21.0.uk.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="vi">https://updates.lukotta.com/notes/1.21.0.vi.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="zh-Hans">https://updates.lukotta.com/notes/1.21.0.zh-Hans.html</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/clementrahula/lukotta/releases/download/v1.21.0/Lukotta-1.21.0.zip" length="86077568" type="application/octet-stream" sparkle:edSignature="2hX2Ok3QsW28+7yUNR7WhL4WHW39cV/2UqIRd5bdHl+r9WTyq/6zX6PVCQkSrMfyRPSJEj2hqiwAzh9/0DBhCw==" />
+    </item>
+    <item>
       <title>Version 1.20.4</title>
       <pubDate>Wed, 26 Aug 2026 17:25:22 +0000</pubDate>
       <sparkle:version>619</sparkle:version>
