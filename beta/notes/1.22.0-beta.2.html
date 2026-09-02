@@ -1,85 +1,13 @@
 <html><body style="font: -apple-system-body; margin: 0">
 <h2>Version 1.22.0-beta.2</h2>
 <ul>
-  <li>Install only a dev build over what is on this Mac.</li>
-  <li>Refuse the two channels that matter, not all four.</li>
-  <li>Build a branded app without copying it into /Applications.</li>
-  <li>Open a drive Windows left dirty, rather than demoting it.</li>
-  <li>Keep the guest answering under a long copy, and size a LUKS machine from its header.</li>
-  <li>Write down what a dozen open drives actually costs.</li>
-  <li>Prove the repair refuses what it would damage, rather than asserting it.</li>
-  <li>Wait out a slow guest instead of failing the write.</li>
-  <li>Correct what the code says about overriding the engine&#x27;s soft mount.</li>
-  <li>Start the guest&#x27;s writeback early, so the mount stops going quiet.</li>
-  <li>Check a repair against the guest that has to perform it.</li>
-  <li>Write down what the timeout fix actually moved.</li>
-  <li>Mark the memory results confounded, before anything is built on them.</li>
-  <li>Count the invalid-length flood again, with the timer fixed.</li>
-  <li>Rule out the thread count before spending a run on it.</li>
-  <li>Take the down-delay from the kernel rather than from its manual.</li>
-  <li>Raise the worst measured stall from thirty-six seconds to sixty.</li>
-  <li>An idle mount was starved to death by a copy on another one.</li>
-  <li>Ask about quitting once, not once per screen.</li>
-  <li>Withdraw the claim that the starved mount was the dozen-volumes problem.</li>
-  <li>Measure a stall instead of assuming what it is.</li>
-  <li>Take the writeback tuning out; it stopped a copy dead.</li>
-  <li>Put the new harnesses through the checks the rest of the tree passes.</li>
-  <li>Refuse to measure through a daemon that is not this build&#x27;s.</li>
-  <li>Notice a stale daemon this app registered itself.</li>
-  <li>Look for the daemon by what it runs, not by what it is called.</li>
-  <li>Correct the note about askVersion, which was already called.</li>
-  <li>Separate the two clocks, and withdraw the guess about multiples.</li>
-  <li>Keep the drive flag out of the app people are given.</li>
-  <li>Eject the drive that was named, not every drive that is open.</li>
-  <li>Check the options are in force, not merely asked for.</li>
-  <li>Measure the latency, not the verdict about it.</li>
-  <li>Correct &quot;no unresponsive episodes&quot;: there was a 7.7-second one.</li>
-  <li>Mark every episode count in this file as a floor.</li>
-  <li>Write the whole distribution down, not the first fifth of it.</li>
-  <li>Line the slow moments up against when files were written.</li>
-  <li>Two full copies, and the reason that is not yet enough.</li>
-  <li>Read the same thirteen gigabytes back, and find no tail at all.</li>
-  <li>Sample the read side twice, and find it flat both times.</li>
-  <li>Eleven volumes at once, 587 MB, and the ceiling was never there.</li>
-  <li>Twelve volumes open and writable at once, on the eight-gigabyte Mac.</li>
-  <li>Thirteen, and the footprint halving while they stayed open.</li>
-  <li>Raising the thread count made it worse, so eight stays.</li>
-  <li>A smaller transfer size makes the tail worse too.</li>
-  <li>The latency tail is the device, and here is the control that shows it.</li>
-  <li>Keep a slow drive out of the &quot;server is not responding&quot; dialog.</li>
-  <li>Raise the contract, because the build comparison did not catch this one.</li>
-  <li>Ask the daemon to replace itself always, rather than deciding first.</li>
-  <li>Measure what mutejukebox changed, and say what that does not prove.</li>
-  <li>Free space is not the variable, and neither is every writer.</li>
-  <li>Three waits past five seconds, and nothing said about any of them.</li>
-  <li>Let a machine finish writing before killing it.</li>
-  <li>Read a RAID array out of the listing without mistaking it for LVM.</li>
-  <li>Make ntfs3 look before it writes.</li>
-  <li>Write down what the ntfs3 probe costs, and why it is paid anyway.</li>
-  <li>The probe costs nothing; the cost was my own harness corrupting the config.</li>
-  <li>Turn the ntfs3 probe off: it breaks the drive it was meant to protect.</li>
-  <li>The probe was not what broke the drive; the test sweeps were.</li>
-  <li>Repair a dirty NTFS volume instead of handing it back read-only.</li>
-  <li>Put the ntfs3 probe back: it was never what broke the drive.</li>
-  <li>Three levers tried on the ten-second listing; none of them moved it.</li>
-  <li>Raise the contract for the reverted mount options.</li>
-  <li>ntfs-3g is not the answer to the slow listing; it spreads it.</li>
-  <li>Cut the write size so the folder being copied into keeps answering.</li>
-  <li>16384 is not better than 32768, and the rest is macOS&#x27;s own vnode.</li>
-  <li>Creates do not stall a listing; sustained writes do, and 8 threads beat 32.</li>
-  <li>The directory cache does not help either; seven knobs, one worked.</li>
-  <li>Stop the engine promising a flush it never performs on a raw device.</li>
-  <li>dirsync does not save the lost directory entry either.</li>
-  <li>Fix the end-to-end script, which had never run on this machine.</li>
-  <li>The volume-group image does not fail on time, and 140s proved it.</li>
-  <li>Open a partitioned fixture as partitioned, and the last e2e failure goes.</li>
-  <li>Raise the contract after the reverted export experiment.</li>
-  <li>no_wdelay does not save the directory entry either.</li>
-  <li>Flush a device node with the call a device node accepts.</li>
-  <li>State the memory cost as two measured numbers.</li>
-  <li>Say once, on a first launch, that this is early.</li>
-  <li>Capitalise Development in the notice&#x27;s title.</li>
-  <li>Prove the device branch is taken, against unpatched imago on the same device.</li>
-  <li>Look up why notarisation has no credential instead of guessing.</li>
+  <li>A large copy no longer fails part way. A 13 GB copy that died at 84% now finishes intact.</li>
+  <li>macOS no longer says the drive has stopped responding during a copy.</li>
+  <li>Copying to a slow drive is faster: the worst pause fell from 90 seconds to 16.</li>
+  <li>A drive Windows left dirty is repaired and opened for writing, rather than read-only.</li>
+  <li>A drive Windows left hibernated is refused rather than written to.</li>
+  <li>XFS volumes open, on their own and inside a LUKS container.</li>
+  <li>An encrypted drive takes only the memory its header asks for, so more can be open at once.</li>
+  <li>The first launch says that the app is still in early development.</li>
 </ul>
 </body></html>
