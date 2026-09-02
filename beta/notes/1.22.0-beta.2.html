@@ -1,13 +1,13 @@
 <html><body style="font: -apple-system-body; margin: 0">
 <h2>Version 1.22.0-beta.2</h2>
 <ul>
-  <li>A large copy no longer fails part way. A 13 GB copy that died at 84% now finishes intact.</li>
-  <li>macOS no longer says the drive has stopped responding during a copy.</li>
-  <li>Copying to a slow drive is faster: the worst pause fell from 90 seconds to 16.</li>
-  <li>A drive Windows left dirty is repaired and opened for writing, rather than read-only.</li>
-  <li>A drive Windows left hibernated is refused rather than written to.</li>
-  <li>XFS volumes open, on their own and inside a LUKS container.</li>
-  <li>An encrypted drive takes only the memory its header asks for, so more can be open at once.</li>
-  <li>The first launch says that the app is still in early development.</li>
+  <li>Copying a lot of files to a drive no longer fails part way through.</li>
+  <li>macOS no longer says the drive has stopped responding while you are copying.</li>
+  <li>Copying to a slow drive is faster.</li>
+  <li>A drive Windows left in a bad state is repaired, so you can write to it again.</li>
+  <li>A drive left hibernated by Windows is not written to, so Windows still resumes.</li>
+  <li>XFS drives open, on their own and inside a LUKS container.</li>
+  <li>The notice about early development appears once, not every time you open the app.</li>
+  <li>Quitting with a drive open asks you once.</li>
 </ul>
 </body></html>
