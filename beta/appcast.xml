@@ -6,6 +6,15 @@
     <description>Updates for Lukotta Beta.</description>
     <language>en</language>
     <item>
+      <title>Version 1.22.7-beta.2</title>
+      <pubDate>Thu, 03 Sep 2026 06:49:54 +0000</pubDate>
+      <sparkle:version>1074</sparkle:version>
+      <sparkle:shortVersionString>1.22.7-beta.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://updates.lukotta.com/beta/notes/1.22.7-beta.2.html</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/clementrahula/lukotta/releases/download/v1.22.7-beta.2/Lukotta-Beta-1.22.7-beta.2.zip" length="93145433" type="application/octet-stream" sparkle:edSignature="p0ZVekH55jHi7OO4z586+NTO3mbinkCKmkZ7uZsRFggm+7+GdUfDW0uUeqGVNM/Nsh5ASMurr0tp+DY314bKAg==" />
+    </item>
+    <item>
       <title>Version 1.22.7-beta.1</title>
       <pubDate>Thu, 03 Sep 2026 06:36:30 +0000</pubDate>
       <sparkle:version>1067</sparkle:version>
