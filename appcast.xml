@@ -6,6 +6,15 @@
     <description>Updates for Lukotta.</description>
     <language>en</language>
     <item>
+      <title>Version 1.22.7</title>
+      <pubDate>Thu, 03 Sep 2026 07:15:56 +0000</pubDate>
+      <sparkle:version>1086</sparkle:version>
+      <sparkle:shortVersionString>1.22.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://updates.lukotta.com/notes/1.22.7.html</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/clementrahula/lukotta/releases/download/v1.22.7/Lukotta-1.22.7.zip" length="93134629" type="application/octet-stream" sparkle:edSignature="02rq26kDDkQgOgwP0NP+Avz50vOaqN5/2i2IlDfovKG19l0FvMWy+2Fbxw2k9SEBT3dP+GMbObV+kQU8KL1jCw==" />
+    </item>
+    <item>
       <title>Version 1.22.6</title>
       <pubDate>Thu, 03 Sep 2026 04:31:55 +0000</pubDate>
       <sparkle:version>1054</sparkle:version>
