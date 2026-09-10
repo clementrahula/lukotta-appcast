@@ -1,0 +1,8 @@
+# Every claim this project makes that something can check, and the check.
+#
+# ONE ROW PER CLAIM. Tab-separated: id, tags, speed, claim, command.
+# speed is fast or slow; slow rows run only under FULL=1.
+#
+# A task that proves something adds a row here, and it is checked from then on.
+
+feeds	gate	fast	both appcasts are well-formed XML	python3 -c "import xml.dom.minidom as m,glob; [m.parse(f) for f in ['appcast.xml','beta/appcast.xml']]"
